@@ -28,8 +28,7 @@
 
 ## 📌 Projects
 
-🔹 JobZygo – Job portal backend  
-🔹 AI Resume Analyzer  
+🔹 JobZygo – Job portal backend   
 🔹 Spring Boot E-Commerce API (in progress)
 
 ---
