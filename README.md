@@ -10,6 +10,8 @@
 
 💻 **Java Backend Developer**
 
+Backend developer focused on building **REST APIs and backend systems using Java and Spring Boot**.
+
 ---
 
 # 🚀 Tech Stack
@@ -30,7 +32,7 @@
 
 # 🛠 Development Tools
 
-- IntelliJ IDEA (primary IDE)
+- IntelliJ IDEA (Primary IDE)
 - Visual Studio Code
 - Git & GitHub
 - Postman
@@ -51,6 +53,7 @@
 **Spring Boot E-Commerce API**
 
 Backend system for:
+
 - Product catalog  
 - Cart management  
 - Order processing  
@@ -59,9 +62,9 @@ Backend system for:
 
 # 📚 Currently Learning
 
-- Microservices Architecture
-- Spring Security
-- Docker
+- Microservices Architecture  
+- Spring Security  
+- Docker  
 
 ---
 
@@ -80,6 +83,16 @@ Backend system for:
 # 📈 Contribution Graph
 
 ![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabh-rawat47&theme=tokyo-night)
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/saurabh-rawat-a82486291
+
+💻 GitHub  
+https://github.com/saurabh-rawat47
 
 ---
 
