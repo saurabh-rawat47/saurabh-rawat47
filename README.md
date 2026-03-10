@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Saurabh Rawat 👋
 
-<!--
-**saurabh-rawat47/saurabh-rawat47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer
 
-Here are some ideas to get you started:
+🚀 Tech Stack
+- Java
+- Spring Boot
+- Hibernate / JPA
+- REST APIs
+- MySQL
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Development Tools
+- Git & GitHub
+- Postman
+- Replit
+- Cursor IDE
+- Antigravity IDE
+- AI-assisted development tools
+
+📌 Projects
+- JobZygo – Job portal backend
+- Spring Boot E-Commerce API (in progress)
+
+📚 Currently Learning
+- Microservices
+- Spring Security
+- Docker
