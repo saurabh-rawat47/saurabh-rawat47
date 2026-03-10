@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+REST+APIs;Learning+Microservices" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saurabh-rawat47&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 💻 **Java Backend Developer**
 
 ---
@@ -26,12 +30,14 @@
 
 # 🛠 Development Tools
 
-- Git & GitHub  
-- Postman  
-- Cursor IDE  
-- Replit  
-- Antigravity IDE  
-- AI-assisted development tools  
+- IntelliJ IDEA (primary IDE)
+- Visual Studio Code
+- Git & GitHub
+- Postman
+- Cursor IDE
+- Replit
+- Antigravity IDE
+- AI-assisted development tools
 
 ---
 
@@ -53,9 +59,9 @@ Backend system for:
 
 # 📚 Currently Learning
 
-- Microservices Architecture  
-- Spring Security  
-- Docker  
+- Microservices Architecture
+- Spring Security
+- Docker
 
 ---
 
@@ -71,4 +77,10 @@ Backend system for:
 
 ---
 
-⭐ *Always learning and building backend systems with Java and Spring Boot.*
+# 📈 Contribution Graph
+
+![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabh-rawat47&theme=tokyo-night)
+
+---
+
+⭐ Always learning and building backend systems with **Java and Spring Boot**.
