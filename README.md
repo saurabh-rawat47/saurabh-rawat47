@@ -1,10 +1,14 @@
 # Hi, I'm Saurabh Rawat 👋
 
-💻 Java Backend Developer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+REST+APIs;Learning+Microservices" />
+</p>
+
+💻 **Java Backend Developer**
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -20,43 +24,51 @@
 
 ---
 
-## 🛠 Development Tools
+# 🛠 Development Tools
 
-- Git & GitHub
-- Postman
-- Cursor IDE
-- Replit
-- Antigravity IDE
-- AI-assisted development tools
-
----
-
-## 📌 Projects
-
-🔹 [JobZygo](https://github.com/saurabh-rawat47/JobZygo)  
-Job portal backend built with Spring Boot, REST APIs, and MongoDB for job posting and application management.
-
-🔹 [JournalApp](https://github.com/saurabh-rawat47/JournalApp)  
-Personal journaling backend application using Spring Boot and MongoDB with CRUD APIs for journal entries.
-
-🔹 Spring Boot E-Commerce API (In Progress)  
-Backend system for product catalog, cart management, and order processing.
----
-
-## 📚 Currently Learning
-
-- Microservices
-- Spring Security
-- Docker
+- Git & GitHub  
+- Postman  
+- Cursor IDE  
+- Replit  
+- Antigravity IDE  
+- AI-assisted development tools  
 
 ---
 
-## 📊 GitHub Stats
+# 📌 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight)](https://github.com/saurabh-rawat47/JobZygo)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight)](https://github.com/saurabh-rawat47/JournalApp)
+
+### 🚧 In Progress
+**Spring Boot E-Commerce API**
+
+Backend system for:
+- Product catalog  
+- Cart management  
+- Order processing  
+
+---
+
+# 📚 Currently Learning
+
+- Microservices Architecture  
+- Spring Security  
+- Docker  
+
+---
+
+# 📊 GitHub Stats
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight)
+
+---
+
+⭐ *Always learning and building backend systems with Java and Spring Boot.*
