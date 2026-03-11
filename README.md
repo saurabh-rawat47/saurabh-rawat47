@@ -10,7 +10,7 @@
 
 💻 **Java Backend Developer**
 
-Backend developer focused on building **REST APIs and backend systems using Java and Spring Boot**.
+Backend developer focused on building **scalable REST APIs and backend systems using Java and Spring Boot**.
 
 ---
 
@@ -47,16 +47,27 @@ Backend developer focused on building **REST APIs and backend systems using Java
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight)](https://github.com/saurabh-rawat47/JobZygo)
 
+**JobZygo**  
+Backend system for job posting and application management built using **Spring Boot, REST APIs, and MongoDB**.
+
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight)](https://github.com/saurabh-rawat47/JournalApp)
 
+**JournalApp**  
+REST API backend application for managing personal journal entries using **Spring Boot and MongoDB**.
+
+---
+
 ### 🚧 In Progress
+
 **Spring Boot E-Commerce API**
 
 Backend system for:
 
-- Product catalog  
-- Cart management  
-- Order processing  
+- Product catalog
+- Cart management
+- Order processing
 
 ---
 
@@ -64,7 +75,7 @@ Backend system for:
 
 - Microservices Architecture  
 - Spring Security  
-- Docker  
+- Docker
 
 ---
 
