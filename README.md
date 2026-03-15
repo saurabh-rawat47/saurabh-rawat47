@@ -1,7 +1,7 @@
 # Hi, I'm Saurabh Rawat 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Builder;Clean+Architecture+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Builder;Clean+Architecture+Focused" />
 </p>
 
 <p align="left">
@@ -12,29 +12,27 @@
 
 ## 💼 Professional Summary
 
-Backend Developer specializing in **Java and Spring Boot**, focused on building scalable REST APIs with clean architecture and proper separation of concerns.
+Java Backend Developer focused on building scalable REST APIs using Spring Boot.
 
-I enjoy designing structured systems using:
-- Layered architecture
-- DTO-based API design
-- Global exception handling
-- Database integration
+I specialize in:
+- Layered architecture design
+- DTO-based API development
+- Database-driven applications
+- Clean code practices
+- Exception handling strategies
+
+Currently strengthening my skills in Spring Security and system design.
 
 ---
 
-## 🏗 Technical Focus
+## 🏗 Core Expertise
 
 - RESTful API Development
+- Spring Boot Applications
 - Backend System Design
-- Database-driven Applications
-- Secure Authentication Systems
-- Clean Code Principles
-
-Currently strengthening:
-- Spring Security
-- JWT Authentication
-- Microservices
-- Docker
+- Database Integration (MySQL & MongoDB)
+- Modular Project Structure
+- API Error Handling
 
 ---
 
@@ -57,34 +55,44 @@ Currently strengthening:
 ### 🔹 Spring Boot E-Commerce API
 A structured backend system for product and category management.
 
-**Highlights:**
-- CRUD operations
+**Key Highlights:**
+- Category & Product CRUD
 - DTO-based design
 - Layered architecture
 - Global exception handling
-- Security integration (In Progress)
+- Security implementation (In Progress)
 
 ---
 
 ### 🔹 JobZygo
-Backend platform for job posting and management.
+Backend system for job posting and application management.
 
-**Highlights:**
-- REST API design
+**Key Highlights:**
+- REST API development
 - MongoDB integration
-- Clean architecture
-- Scalable service structure
+- Clean architecture principles
+- Scalable service layer design
 
 ---
 
 ### 🔹 JournalApp
-Personal journal management backend system.
+REST API for managing personal journal entries.
 
-**Highlights:**
-- CRUD functionality
+**Key Highlights:**
+- CRUD operations
 - MongoDB support
-- Modular design
-- Exception handling
+- Modular backend structure
+- Proper exception handling
+
+---
+
+## 📚 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Microservices Architecture
+- System Design Fundamentals
+- Docker
 
 ---
 
@@ -107,4 +115,4 @@ Personal journal management backend system.
 
 ---
 
-⭐ Continuously building backend systems with Java and Spring Boot.
+⭐ Actively building backend systems and improving in Spring Boot and system design.
