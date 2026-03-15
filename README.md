@@ -1,118 +1,106 @@
 # Hi, I'm Saurabh Rawat 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Builder;Clean+Architecture+Focused" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+REST+APIs;Learning+Microservices" />
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saurabh-rawat47&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 💼 Professional Summary
-
-Java Backend Developer focused on building scalable REST APIs using Spring Boot.
-
-I specialize in:
-- Layered architecture design
-- DTO-based API development
-- Database-driven applications
-- Clean code practices
-- Exception handling strategies
-
-Currently strengthening my skills in Spring Security and system design.
+💻 **Java Backend Developer**  
+Focused on building scalable REST APIs and backend systems using **Java & Spring Boot**.
 
 ---
 
-## 🏗 Core Expertise
+# 🚀 Tech Stack
 
-- RESTful API Development
-- Spring Boot Applications
-- Backend System Design
-- Database Integration (MySQL & MongoDB)
-- Modular Project Structure
-- API Error Handling
-
----
-
-## 🚀 Tech Stack
-
+### 💻 Programming Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🌱 Backend Development
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+# 🛠 Development Tools
 
-### 🔹 Spring Boot E-Commerce API
-A structured backend system for product and category management.
-
-**Key Highlights:**
-- Category & Product CRUD
-- DTO-based design
-- Layered architecture
-- Global exception handling
-- Security implementation (In Progress)
+- IntelliJ IDEA
+- VS Code
+- Git & GitHub
+- Postman
+- AI-assisted development tools
 
 ---
 
-### 🔹 JobZygo
-Backend system for job posting and application management.
+# 📌 Featured Projects
 
-**Key Highlights:**
-- REST API development
-- MongoDB integration
-- Clean architecture principles
-- Scalable service layer design
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight)](https://github.com/saurabh-rawat47/JobZygo)
+
+**JobZygo**  
+Spring Boot backend system for job posting and application management using REST APIs and MongoDB.
 
 ---
 
-### 🔹 JournalApp
-REST API for managing personal journal entries.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight)](https://github.com/saurabh-rawat47/JournalApp)
 
-**Key Highlights:**
-- CRUD operations
-- MongoDB support
-- Modular backend structure
-- Proper exception handling
+**JournalApp**  
+REST API backend application for managing personal journal entries using Spring Boot and MongoDB.
 
 ---
 
-## 📚 Currently Learning
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=spring-boot-ecommerce-api&theme=tokyonight)](https://github.com/saurabh-rawat47/spring-boot-ecommerce-api)
+
+**Spring Boot E-Commerce API**  
+RESTful backend application with layered architecture for product and category management.  
+(Currently enhancing with Spring Security.)
+
+---
+
+# 📚 Currently Learning
 
 - Spring Security
-- JWT Authentication
 - Microservices Architecture
-- System Design Fundamentals
 - Docker
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight" />
-</p>
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-- GitHub: https://github.com/saurabh-rawat47
-- LinkedIn: https://www.linkedin.com/in/saurabh-rawat-a82486291
+![GitHub Streak](https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight)
 
 ---
 
-⭐ Actively building backend systems and improving in Spring Boot and system design.
+# 📈 Contribution Graph
+
+![Saurabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabh-rawat47&theme=tokyo-night)
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/saurabh-rawat-a82486291
+
+💻 GitHub  
+https://github.com/saurabh-rawat47
+
+---
+
+⭐ Building backend systems with **Java & Spring Boot**.
