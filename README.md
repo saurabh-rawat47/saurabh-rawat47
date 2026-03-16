@@ -52,21 +52,21 @@ I enjoy designing clean architectures, writing maintainable code, and continuous
 # 📌 Featured Projects
 
 ### 🟢 JobZygo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight)](https://github.com/saurabh-rawat47/JobZygo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/JobZygo)
 
 Backend system for job posting and application management built with **Spring Boot and MongoDB**.
 
 ---
 
 ### 🟢 JournalApp
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight)](https://github.com/saurabh-rawat47/JournalApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/JournalApp)
 
 REST API application for managing journal entries using **Spring Boot and MongoDB**.
 
 ---
 
 ### 🟢 Spring Boot E-Commerce API
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=spring-boot-ecommerce-api&theme=tokyonight)](https://github.com/saurabh-rawat47/spring-boot-ecommerce-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=spring-boot-ecommerce-api&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/spring-boot-ecommerce-api)
 
 Layered architecture-based e-commerce backend with:
 - Product & Category Management
