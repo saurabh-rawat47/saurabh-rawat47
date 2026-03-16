@@ -1,7 +1,7 @@
 # Hi, I'm Saurabh Rawat 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Engineer;REST+API+Builder;Learning+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer+(Fresher);Spring+Boot+Enthusiast;Building+REST+APIs;Learning+System+Design;Backend+Engineering+Journey" />
 </p>
 
 <p align="center">
@@ -12,9 +12,16 @@
 
 # 💻 About Me
 
-Java backend developer focused on building **scalable REST APIs and backend systems** using **Spring Boot**.
+Aspiring **Java Backend Developer** passionate about building **REST APIs and backend systems using Spring Boot**.
 
-I enjoy designing clean architectures, implementing secure APIs, and improving system reliability through well-structured backend development.
+Currently improving backend fundamentals including:
+
+• REST API design  
+• Database integration  
+• Authentication & security  
+• Clean architecture  
+
+I enjoy learning how scalable backend systems are built and continuously improve my engineering skills by developing backend projects.
 
 ---
 
@@ -38,6 +45,27 @@ I enjoy designing clean architectures, implementing secure APIs, and improving s
 
 ---
 
+# 🏗 Backend Architecture (Typical Project Structure)
+```
+Client
+│
+▼
+Controller Layer
+│
+▼
+Service Layer
+│
+▼
+Repository Layer
+│
+▼
+Database
+```
+
+This architecture is followed in my Spring Boot projects to maintain **clean separation of concerns and maintainable backend code**.
+
+---
+
 # 🛠 Tools & Environment
 
 - IntelliJ IDEA  
@@ -54,51 +82,71 @@ I enjoy designing clean architectures, implementing secure APIs, and improving s
 ### 🟢 JobZygo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/JobZygo)
 
-Backend system for job posting and application management.
+Learning project implementing a **job posting and application management backend system**.
 
 • Built with Spring Boot REST APIs  
 • MongoDB database integration  
-• Clean layered architecture (Controller → Service → Repository)
+• Layered backend architecture (Controller → Service → Repository)
 
 ---
 
 ### 🟢 JournalApp
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/JournalApp)
 
-REST API backend for managing personal journal entries.
+REST API backend for managing **personal journal entries**.
 
 • Spring Boot REST architecture  
 • MongoDB persistence layer  
-• CRUD API endpoints for journal management
+• CRUD API endpoints
 
 ---
 
 ### 🟢 Spring Boot E-Commerce API
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=spring-boot-ecommerce-api&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/spring-boot-ecommerce-api)
 
-Backend system for an e-commerce platform.
+Backend learning project for an **e-commerce platform API**.
 
-• Product and Category REST APIs  
+• Product & Category REST APIs  
 • DTO-based request/response design  
 • Global exception handling  
 • Spring Security integration (in progress)
 
 ---
 
-# 🎯 Current Focus
+# 📑 API Development Approach
 
-• Building backend systems using Spring Boot  
-• Learning Spring Security and authentication systems  
-• Improving backend architecture and system design  
+When building backend APIs I focus on:
+
+• Clean REST endpoint design  
+• Correct HTTP status codes  
+• DTO-based request & response models  
+• Global exception handling  
+• Request validation  
+
+Tools used for API testing and documentation:
+
+- Postman  
+- REST API clients  
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Current Focus
+
+• Building backend systems using Spring Boot  
+• Learning authentication with Spring Security  
+• Improving backend architecture understanding  
+• Practicing system design fundamentals  
+
+---
+
+# 📚 Learning Roadmap
+
+Currently exploring:
 
 - Spring Security  
 - Microservices Architecture  
-- System Design Principles  
-- Docker  
+- Docker & Containerization  
+- Backend System Design  
 
 ---
 
@@ -129,7 +177,7 @@ Backend system for an e-commerce platform.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saurabh-rawat47/saurabh-rawat47/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/saurabh-rawat47/saurabh-rawat47/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -150,4 +198,4 @@ Backend system for an e-commerce platform.
 
 ---
 
-⭐ Building scalable backend systems with **Java & Spring Boot**.
+⭐ Learning and building **backend systems with Java & Spring Boot**.
