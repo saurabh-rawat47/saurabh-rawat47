@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabh-rawat47&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=saurabh-rawat47&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 💻 About Me
+# 💻 About Me
 
 Java backend developer focused on building **scalable REST APIs and backend systems** using **Spring Boot**.
 
@@ -18,23 +18,23 @@ I enjoy designing clean architectures, implementing secure APIs, and improving s
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
-### Programming Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,postman,maven,idea,vscode,docker&theme=dark"/>
+</p>
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+---
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+# 🧠 Backend Engineering Focus
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- REST API Design  
+- Layered Architecture (Controller → Service → Repository)  
+- DTO Pattern for API responses  
+- Global Exception Handling  
+- Authentication & Authorization (Spring Security)  
+- Database Design & Entity Relationships  
+- Clean Code & Maintainable Architecture  
 
 ---
 
@@ -89,7 +89,7 @@ Backend system for an e-commerce platform.
 
 • Building backend systems using Spring Boot  
 • Learning Spring Security and authentication systems  
-• Improving backend architecture and system design
+• Improving backend architecture and system design  
 
 ---
 
@@ -105,9 +105,17 @@ Backend system for an e-commerce platform.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-rawat47&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-rawat47&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saurabh-rawat47&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -120,11 +128,17 @@ Backend system for an e-commerce platform.
 
 # 🌐 Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/saurabh-rawat-a82486291  
+<p align="center">
 
-💻 GitHub  
-https://github.com/saurabh-rawat47  
+<a href="https://www.linkedin.com/in/saurabh-rawat-a82486291">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saurabh-rawat47">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
