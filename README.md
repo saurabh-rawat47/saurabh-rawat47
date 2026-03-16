@@ -105,8 +105,9 @@ Backend system for an e-commerce platform.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-rawat47&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
