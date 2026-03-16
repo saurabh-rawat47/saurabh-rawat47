@@ -126,6 +126,14 @@ Backend system for an e-commerce platform.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/saurabh-rawat47/saurabh-rawat47/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
