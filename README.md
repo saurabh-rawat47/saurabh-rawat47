@@ -1,195 +1,96 @@
-# Hi, I'm Saurabh Rawat 👋
+# Hi, I'm Saurabh Rawat 👋  
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer+(Fresher);Spring+Boot+Enthusiast;Building+REST+APIs;Learning+System+Design;Backend+Engineering+Journey" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saurabh-rawat47&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+🚀 **Java Backend Developer | Spring Boot | REST APIs | MongoDB**
 
 ---
 
-# 💻 About Me
+## 💻 About Me
 
-Aspiring **Java Backend Developer** passionate about building **REST APIs and backend systems using Spring Boot**.
+Backend-focused developer with hands-on experience building **REST APIs using Spring Boot**.  
+Strong understanding of **layered architecture, API design, and database integration**.
 
-Currently improving backend fundamentals including:
-
-• REST API design  
-• Database integration  
-• Authentication & security  
-• Clean architecture  
-
-I enjoy learning how scalable backend systems are built and continuously improve my engineering skills by developing backend projects.
+Focused on writing **clean, scalable, and maintainable backend systems**.
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,postman,maven,idea,vscode,docker&theme=dark"/>
-</p>
+**Backend:** Java, Spring Boot  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, Maven, Docker  
+**IDE:** IntelliJ IDEA, VS Code  
 
 ---
 
-# 🧠 Backend Engineering Focus
+## 🧠 Backend Skills
 
 - REST API Design  
-- Layered Architecture (Controller → Service → Repository)  
-- DTO Pattern for API responses  
+- Controller → Service → Repository Architecture  
+- DTO Pattern & Validation  
 - Global Exception Handling  
 - Authentication & Authorization (Spring Security)  
 - Database Design & Entity Relationships  
-- Clean Code & Maintainable Architecture  
 
 ---
 
-# 🏗 Backend Architecture (Typical Project Structure)
-```
-Client
-│
-▼
-Controller Layer
-│
-▼
-Service Layer
-│
-▼
-Repository Layer
-│
-▼
-Database
-```
+## 📌 Projects
 
-This architecture is followed in my Spring Boot projects to maintain **clean separation of concerns and maintainable backend code**.
+### 🔹 JobZygo  
+🔗 https://github.com/saurabh-rawat47/JobZygo  
+
+Backend system for **job posting & application management**
+
+- Developed REST APIs using Spring Boot  
+- Implemented layered architecture  
+- Integrated MongoDB for data persistence  
+- Designed clean API structure with proper HTTP methods  
 
 ---
 
-# 🛠 Tools & Environment
+### 🔹 JournalApp  
+🔗 https://github.com/saurabh-rawat47/JournalApp  
 
-- IntelliJ IDEA  
-- VS Code  
-- Git & GitHub  
-- Maven  
-- Postman  
-- AI-assisted development tools  
+Backend API for **journal entry management**
 
----
-
-# 📌 Featured Projects
-
-### 🟢 JobZygo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JobZygo&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/JobZygo)
-
-Learning project implementing a **job posting and application management backend system**.
-
-• Built with Spring Boot REST APIs  
-• MongoDB database integration  
-• Layered backend architecture (Controller → Service → Repository)
+- Built CRUD REST APIs  
+- Implemented MongoDB persistence  
+- Structured backend using layered architecture  
 
 ---
 
-### 🟢 JournalApp
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=JournalApp&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/JournalApp)
+### 🔹 E-Commerce API  
+🔗 https://github.com/saurabh-rawat47/spring-boot-ecommerce-api  
 
-REST API backend for managing **personal journal entries**.
+Backend system for **e-commerce platform**
 
-• Spring Boot REST architecture  
-• MongoDB persistence layer  
-• CRUD API endpoints
-
----
-
-### 🟢 Spring Boot E-Commerce API
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saurabh-rawat47&repo=spring-boot-ecommerce-api&theme=tokyonight&hide=description)](https://github.com/saurabh-rawat47/spring-boot-ecommerce-api)
-
-Backend learning project for an **e-commerce platform API**.
-
-• Product & Category REST APIs  
-• DTO-based request/response design  
-• Global exception handling  
-• Spring Security integration (in progress)
+- Developed product & category APIs  
+- Used DTO pattern for request/response handling  
+- Implemented global exception handling  
+- Integrated Spring Security (JWT - in progress)  
 
 ---
 
-# 📑 API Development Approach
+## 🚀 Backend Highlights
 
-When building backend APIs I focus on:
-
-• Clean REST endpoint design  
-• Correct HTTP status codes  
-• DTO-based request & response models  
-• Global exception handling  
-• Request validation  
-
-Tools used for API testing and documentation:
-
-- Postman  
-- REST API clients  
+- Built multiple REST APIs using Spring Boot  
+- Hands-on experience with MongoDB & MySQL  
+- Implemented scalable backend architecture  
+- Familiar with authentication & authorization  
 
 ---
 
-# 🎯 Current Focus
-
-• Building backend systems using Spring Boot  
-• Learning authentication with Spring Security  
-• Improving backend architecture understanding  
-• Practicing system design fundamentals  
-
----
-
-# 📚 Learning Roadmap
-
-Currently exploring:
-
-- Spring Security  
-- Microservices Architecture  
-- Docker & Containerization  
-- Backend System Design  
-
----
-
-# 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabh-rawat47&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=saurabh-rawat47&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-rawat47&layout=compact&theme=tokyonight"/>
+  <a href="https://www.linkedin.com/in/saurabh-rawat-a82486291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://portfolio-rose-three-42.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-
-
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabh-rawat47&theme=tokyo-night)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/saurabh-rawat47/saurabh-rawat47/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/saurabh-rawat-a82486291">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/saurabh-rawat47">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ Learning and building **backend systems with Java & Spring Boot**.
+⭐ Building scalable backend systems with **Java & Spring Boot**
